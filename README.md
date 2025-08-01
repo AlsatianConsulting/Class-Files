@@ -1,0 +1,50 @@
+- Bookmarks for Class
+  - **VPN Files**
+    - [VPNpro – VPN Reviews and Online Privacy Insights](https://vpnpro.com/)
+    - [Mullvad VPN - Free the internet](https://mullvad.net/en)
+    - [VPN service that's fast, reliable, & effective | Windscribe](https://windscribe.com/)
+    - [The best VPN for speed and security](https://protonvpn.com/?srsltid=AfmBOoollmGa-XuY3qPDVolCmV1fUQNTxP1VIHQT4IJAQHVUl82fwSnO)
+  - **Virtual Machine Manager**
+    - [Fusion and Workstation | VMware](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)
+  - **Universal Android Debloater**
+    - [GitHub – 0x192/universal-android-debloater: Cross-platform debloating tool for Android devices.](https://github.com/0x192/universal-android-debloater)
+  - **TOR Utilities**
+    - [OnionShare](https://onionshare.org/)
+    - [Tails](https://tails.net/)
+    - [Tor Project | Anonymity Online](https://www.torproject.org/)
+  - **Secure Messaging Applications**
+    - [SimpleX Chat: private and secure messenger without any user IDs (not even random)](https://simplex.chat/)
+    - [Element | Secure collaboration and messaging](https://element.io/)
+    - [Session | Send Messages, Not Metadata. | Private Messenger](https://getsession.org/)
+    - [Wire – Collaborate without Compromise](https://wire.com/en/)
+    - [Signal >> Download Signal](https://signal.org/download/)
+  - **File Encryption**
+    - [VeraCrypt – Free disk encryption with strong security for the paranoid](https://veracrypt.io/en/Downloads.html)
+    - [AES Crypt - Downloads](https://www.aescrypt.com/download/)
+  - **Secure File Deletion**
+    - [Eraser – Download](https://eraser.heidi.ie/download/)
+    - [BleachBit – Download](https://www.bleachbit.org/download)
+  - **Password Managers**
+    - [Bitwarden – Secure Password Manager & Vault](https://bitwarden.com/)
+    - [KeePass – Password Safe](https://keepass.info/)
+  - **Wi-Fi Utilities**
+    - [Wireshark | Go Deep](https://wireshark.org/)
+    - [Acrylic WiFi Home](https://acrylicwifi.com/en/wlan-software/wlan-scanner-acrylic-wifi-free/)
+    - [inSSIDer | WiFi Scanner](https://metageek.com/products/inssider/)
+    - [Kismet](https://kismetwireless.net/)
+    - [NetSpot](https://netspotapp.com/)
+    - [Wireless Network Watcher – Show who is connected to your wireless network](https://www.nirsoft.net/utils/wireless_network_watcher.html)
+    - [NetworkTrafficView – Monitor the traffic on your network adapter](https://www.nirsoft.net/utils/network_traffic_view.html)
+    - [WiFi Channel Monitor – Monitor APs and clients on selected channel (Windows)](https://www.nirsoft.net/utils/wifi_channel_monitor.html)
+  - **GrapheneOS**
+    - [Web installer | Install | GrapheneOS](https://grapheneos.org/install/web)
+  - **Mapping Software**
+    - [qgis_basemaps.py](https://raw.githubusercontent.com/klakar/QGIS_resources/master/collections/Geosupportsystem/python/qgis_basemaps.py)
+    - [Download · QGIS Web Site](https://qgis.org/download/)
+    - [Google Earth – Download](https://earth.google.com/intl/earth/versions/download-thank-you/)
+  - **Browsers**
+    - [Brave Browser Download | Brave](https://brave.com/download/)
+    - [Get Firefox for desktop — Firefox (US)](https://www.firefox.com/en-US/thanks/)
+  - **Bootable Drive Creators**
+    - [balenaEtcher – Flash OS images to SD cards & USB drives](https://etcher.balena.io/)
+    - [Rufus – Create bootable USB drives the easy way](https://rufus.ie/en/)
