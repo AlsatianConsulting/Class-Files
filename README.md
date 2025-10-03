@@ -95,6 +95,11 @@
  - [Best Password Manager for Business, Enterprise & Personal | Bitwarden](https://bitwarden.com/)
  - [Downloads - KeePass](https://keepass.info/download.html)
  - [Proton Pass: Free password manager with identity protection | Proton](https://proton.me/pass)
+## Phone and App Information
+ - [The App Analytics and App Data Industry Standard | data.ai](https://www.data.ai/)
+ - [Exodus Privacy](https://exodus-privacy.eu.org/en/)
+ - [OONI Explorer](https://explorer.ooni.org/)
+ - [Statcounter Global Stats - Browser, OS, Search Engine including Mobile Usage Share](https://gs.statcounter.com/)
 ## Secure File Deletion
  - [Download | BleachBit](https://www.bleachbit.org/download)
  - [Download – Eraser](https://eraser.heidi.ie/download/)
