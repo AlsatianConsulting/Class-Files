@@ -95,7 +95,8 @@
  - [Best Password Manager for Business, Enterprise & Personal | Bitwarden](https://bitwarden.com/)
  - [Downloads - KeePass](https://keepass.info/download.html)
  - [Proton Pass: Free password manager with identity protection | Proton](https://proton.me/pass)
-## Phone and App Information
+## Pre-Travel Information
+ - [AI Global Surveillance Technology | Carnegie Endowment for International Peace](https://carnegieendowment.org/features/ai-global-surveillance-technology?lang=en)
  - [The App Analytics and App Data Industry Standard | data.ai](https://www.data.ai/)
  - [Exodus Privacy](https://exodus-privacy.eu.org/en/)
  - [OONI Explorer](https://explorer.ooni.org/)
