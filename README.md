@@ -2,9 +2,11 @@
 - [Alsatian Consulting LLC - Veteran-Owned security consulting firm in technology](https://alsatian.consulting/)
 - [Alsatian Consulting, LLC (@alsatianconsulting.bsky.social) — Bluesky](https://bsky.app/profile/alsatianconsulting.bsky.social)
 - [AlsatianConsulting (Alsatian Consulting) · GitHub](https://github.com/alsatianconsulting)
+- [Alsatian Consulting LLC Apps](https://apps.alsatian.consulting)
 ## Bootable Drive Creators
  - [balenaEtcher - Flash OS images to SD cards & USB drives](https://etcher.balena.io/)
  - [Rufus - Create bootable USB drives the easy way](https://rufus.ie/en/)
+ - [Winhance - Windows Enhancement Utility](https://winhance.net)
 ## Browsers
  - [Brave Browser Download | Brave](https://brave.com/download/)
  - [Get Firefox for desktop — Firefox (US)](https://www.firefox.com/en-US/thanks/)
@@ -91,13 +93,13 @@
  - [Download Windows 11](https://www.microsoft.com/en-us/software-download/windows11)
  - [O&O ShutUp10++ - O&O Software GmbH](https://www.oo-software.com/en/shutup10)
  - [WPD | Privacy dashboard for Windows](https://wpd.app/)
+ - [Winhance - Windows Enhancement Utility](https://winhance.net)
 ## Password Managers
  - [Best Password Manager for Business, Enterprise & Personal | Bitwarden](https://bitwarden.com/)
  - [Downloads - KeePass](https://keepass.info/download.html)
  - [Proton Pass: Free password manager with identity protection | Proton](https://proton.me/pass)
 ## Pre-Travel Information
  - [AI Global Surveillance Technology | Carnegie Endowment for International Peace](https://carnegieendowment.org/features/ai-global-surveillance-technology?lang=en)
- - [The App Analytics and App Data Industry Standard | data.ai](https://www.data.ai/)
  - [Exodus Privacy](https://exodus-privacy.eu.org/en/)
  - [OONI Explorer](https://explorer.ooni.org/)
  - [Statcounter Global Stats - Browser, OS, Search Engine including Mobile Usage Share](https://gs.statcounter.com/)
